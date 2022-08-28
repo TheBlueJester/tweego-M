@@ -1,3 +1,7 @@
+# What is the fork of Tweego for?
+
+This fork is being used for changes to the source code to Tweego and compiling new Binaries for use in [TweeGoMatic](https://github.com/TheBlueJester/TweeGoMatic)
+
 # Tweego
 
 [Tweego](http://www.motoslave.net/tweego/) is a free (gratis and libre) command line compiler for [Twine/Twee](http://twinery.org/) story formats, written in [Go](http://golang.org/).
